@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_centerVertical="true"
-        android:text="Start app in Portrait. Rotate device to show app in landscape. Press Back button to exit the app. Rotate device back to Portrait mode. Return to the app and your orientation should be in landscape because the information was saved"
+        android:text="@string/instructions"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
 </RelativeLayout>

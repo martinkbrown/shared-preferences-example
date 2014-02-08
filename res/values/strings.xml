@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, SharedPrefsExampleActivity!</string>
     <string name="app_name">SharedPrefsExample</string>
+    <string name="instructions">Start app in Portrait. Rotate device to show app in landscape. Press Back button to exit the app. Rotate device back to Portrait mode. Return to the app and your orientation should be in landscape because the information was saved</string>
 
 </resources>
